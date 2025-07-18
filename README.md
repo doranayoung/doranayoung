@@ -10,5 +10,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-
 </div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doranayoung&theme=graywhite)
